@@ -10,7 +10,7 @@ This case uses a relatively simple CNN structure to illustrate this process. Six
 
 In this GITHUB repository, I only provide the code; the data can be found in external files here: https://drive.google.com/file/d/17PVOAs7xomwRKY1KUIlE6ltJRqnXo6K8/view?usp=drive_link. You can run it directly, or construct the 3D data in your preferred way (you might need some tricks to ensure consistent data shapes, or use more padding during tests). Alternatively, you can always build a new 3D CNN directly — as the focus of this work is on the concept of the 3D CNN, not any specific CNN architecture.
 
-Please cite the following information to use this method: Meng Zhang, Multi-resolution Short-time Fourier Transform Providing Deep Features for 3D CNN to Classify Rolling Bearing Fault Vibration Signals, Engineering Research Express, 2024. The code is free to use, so please do not sell it.
+Please cite the following information to use this method: Meng Zhang, Multi-resolution Short-time Fourier Transform Providing Deep Features for 3D CNN to Classify Rolling Bearing Fault Vibration Signals, Engineering Research Express, 2024，and I would provide DOI as soon as it becomes available. The code is free to use, so please do not sell it.
 
 
 
